@@ -17,7 +17,6 @@
 <p align="center">
   👩‍💻 Je suis <b>Ikram SABIR</b>, étudiante ingénieure en <b>Applications Web et Mobiles</b> à l’Université Euromed de Fès.<br>
   🌍 Passionnée par le développement web & mobile, la résolution de problèmes et l’algorithmique.<br>
-  🎯 À la recherche d’un environnement stimulant pour mettre mes compétences en pratique.<br>
   📱 Intéressée par le <b>Full-Stack Development</b> et la création d’expériences utilisateurs fluides.<br>
   📫 Contact : <a href="mailto:ikramsabir.sm@gmail.com">ikramsabir.sm@gmail.com</a>
 </p>
@@ -50,17 +49,4 @@
 
 
 
-<h2 align="center">⚡ Stats GitHub ⚡</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=ikramsabir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="https://streak-stats.demolab.com">
-    <img width=390 src="https://streak-stats.demolab.com/?user=ikramsabir&theme=react&border=61dafb&hide_border=true" />
-  </a>
-</p>
 
-<p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramsabir&hide=Mathematica,Ruby,Objective-C&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true"/>
-</p>
