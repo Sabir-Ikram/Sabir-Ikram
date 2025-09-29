@@ -2,46 +2,66 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ikram+SABIR....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour+!+👋;Je+suis+Ikram+SABIR...;Enchantée!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ikram-sabir" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:ikramsabir.sm@gmail.com" title="Gmail"><img width="22" src="images/gmail.svg"> Gmail</a></code>
-  <code><a href="https://github.com/ikramsabir" title="GitHub"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="mailto:ikramsabir.sm@gmail.com" title="Email"><img width="22" src="images/mail.svg"> ikramsabir.sm@gmail.com</a></code>
+  <code><a href="https://github.com/<YOUR_GITHUB_USERNAME>" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="<LINKEDIN_URL>" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
 <br>
 
 <p align="center">
-  👩‍💻 Je suis <b>Ikram SABIR</b>, étudiante ingénieure en <b>Applications Web et Mobiles</b> à l’Université Euromed de Fès.<br>
-  🌍 Passionnée par le développement web & mobile, la résolution de problèmes et l’algorithmique.<br>
-  🎯 À la recherche d’un environnement stimulant pour mettre mes compétences en pratique.<br>
-  📱 Intéressée par le <b>Full-Stack Development</b> et la création d’expériences utilisateurs fluides.<br>
+  Passionnée par le développement web et mobile, la résolution de problèmes et la pensée algorithmique.
+  <br>
+  Étudiante en ingénierie des applications web et mobiles, basée à Agadir, Maroc.
+  <br><br>
   📫 Contact : <a href="mailto:ikramsabir.sm@gmail.com">ikramsabir.sm@gmail.com</a> 
+  <br>
+  📍 Agadir, Maroc
 </p>
 
 <hr>
 
-<h2 align="center">🔥 Compétences Techniques 🔥</h2>
-<br>
+<h2 align="center">🎓 Formation</h2>
+<p align="center">
+  <strong>École d'Ingénierie Digitale et d'Intelligence Artificielle - UEMF</strong> — Ingénierie d'Applications Web et Mobiles (Sep 2022 - En cours)<br>
+  <strong>Lycée Technique AL IDRISSI</strong> — Baccalauréat Sciences et Technologie Électrique (Sep 2021 - Juin 2022)
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Projets académiques (extraits)</h2>
+<p align="center">
+  <ul style="list-style:none;">
+    <li><strong>Site E-commerce</strong> — Django (Python), HTML, CSS, JavaScript, SQLite</li>
+    <li><strong>Système de réservation pour restaurant</strong> — .NET (C#), MySQL</li>
+    <li><strong>Application guide touristique (maroc)</strong> — Node.js, React, Oracle</li>
+    <li><strong>ArtisanFind</strong> — Marketplace locale (Symfony, PHP, Bootstrap, MySQL)</li>
+    <li><strong>Application Task Manager</strong> — Flutter (Dart)</li>
+  </ul>
+</p>
+
+<hr>
+
+<h2 align="center">🔥 Langages & Frameworks & Outils</h2>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C / C++" height="25" src="images/c.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Dart" height="25" src="images/dart.svg"></code>
+  <code><img title="Dart / Flutter" height="25" src="images/flutter.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Symfony" height="25" src="images/symfony.svg"></code>
+  <code><img title="Symfony" height="25" src="images/symfony.png"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title=".NET" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Oracle" height="25" src="images/oracle.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -50,39 +70,31 @@
 
 <hr>
 
-<h2 align="center">📚 Éducation 📚</h2>
+<h2 align="center">🌍 Langues</h2>
 <p align="center">
-  🎓 <b>Baccalauréat en Sciences et Technologies Électriques</b> – Lycée Technique Al Idrissi (2021-2022)<br>
-  🎓 <b>Ingénierie des Applications Web et Mobiles</b> – UEMF (2022 - en cours)
+  Français • Anglais • Arabe • Espagnol
 </p>
 
 <hr>
 
-<h2 align="center">🚀 Projets Académiques 🚀</h2>
-<br>
-<div align="center">
-  <ul>
-    <li>🛒 <b>Site E-commerce</b> – Django, HTML, CSS, JS, SQLite</li>
-    <li>📅 <b>Système de réservation en temps réel</b> – .NET (C#), MySQL</li>
-    <li>🌍 <b>Application web touristique marocaine</b> – Node.js, React, Oracle DB</li>
-    <li>🛠️ <b>ArtisanFind</b> – Marketplace locale avec Symfony, Bootstrap, MySQL</li>
-    <li>✅ <b>Task Manager collaboratif</b> – Flutter (Dart)</li>
-  </ul>
-</div>
+<h2 align="center">🏅 Certifications</h2>
+<p align="center">
+  - Formation Flutter — Google Developer Student Club<br>
+  - Certificats Google Developer Launchpad : C, C++, Matlab, Python
+</p>
 
 <hr>
 
-<h2 align="center">⚡ Stats GitHub ⚡</h2>
-<br>
+<h2 align="center">📂 Repositories</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=ikramsabir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="https://streak-stats.demolab.com">
-    <img width=390 src="https://streak-stats.demolab.com/?user=ikramsabir&theme=react&border=61dafb&hide_border=true" />
-  </a>
+  <a href="https://github.com/<YOUR_GITHUB_USERNAME>/ArtisanFind" title="ArtisanFind"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_GITHUB_USERNAME>&repo=ArtisanFind&theme=react&border_radius=10" /></a>
+  <a href="https://github.com/<YOUR_GITHUB_USERNAME>/Ecommerce" title="Site E-commerce"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_GITHUB_USERNAME>&repo=Ecommerce&theme=react&border_radius=10" /></a>
+  <br>
+  <a href="https://github.com/<YOUR_GITHUB_USERNAME>?tab=repositories" title="Voir plus">🔎 Voir plus 🔍</a>
 </p>
 
+<hr>
+
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramsabir&hide=Mathematica,Ruby,Objective-C&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true"/>
+  <em>Informations extraites du CV fourni.</em> :contentReference[oaicite:1]{index=1}
 </p>
