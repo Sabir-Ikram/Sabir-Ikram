@@ -19,7 +19,7 @@
   🌍 Passionnée par le développement web & mobile, la résolution de problèmes et l’algorithmique.<br>
   🎯 À la recherche d’un environnement stimulant pour mettre mes compétences en pratique.<br>
   📱 Intéressée par le <b>Full-Stack Development</b> et la création d’expériences utilisateurs fluides.<br>
-  📫 Contact : <a href="mailto:ikramsabir.sm@gmail.com">ikramsabir.sm@gmail.com</a> | 📞 +212 615-670149
+  📫 Contact : <a href="mailto:ikramsabir.sm@gmail.com">ikramsabir.sm@gmail.com</a> 
 </p>
 
 <hr>
